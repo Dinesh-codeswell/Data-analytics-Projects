@@ -8,9 +8,6 @@ Its a advance quiz app , with advance functionalities such as timer for every pa
 - **CRUD**
 - **CSS**
 
-## 🔗 Links
-Client - https://quiz-app-advance.netlify.app/
-
 ## Features
 
 - CRUD Operations
