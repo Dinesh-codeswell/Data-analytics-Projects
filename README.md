@@ -1,7 +1,12 @@
 Dinesh Kumar Katal
+
+
 👨‍💻 Data Scientist | Machine Learning Engineer | Web Developer
+
+
 About Me
 Passionate about leveraging data to drive insights and create innovative solutions. With a strong foundation in data science, machine learning, and web development, I strive to build robust and scalable applications that make a difference.
+
 🚀 Skills
 
 Data Science: Python, R, SQL, Pandas, NumPy, SciPy
