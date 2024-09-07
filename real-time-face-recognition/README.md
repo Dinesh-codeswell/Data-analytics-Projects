@@ -2,8 +2,6 @@
 
 Create a fast real-time face recognition app with a few lines of Python code.
 
-![gif](gif.gif)
-
 ## Steps:
 
 `face_taker.py`
