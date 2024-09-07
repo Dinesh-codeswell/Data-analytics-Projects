@@ -32,7 +32,11 @@ Artificial Intelligence Ethics
 📫 Connect With Me
 
 www.linkedin.com/in/dineshkatal
+
+
 https://www.facebook.com/profile.php?id=100012173797583
+
+
 https://www.instagram.com/_dinesh.katal/
 
 Always eager to collaborate on exciting projects and explore new technologies in the fields of data science, machine learning, and web development. Let's connect and create something amazing together!
