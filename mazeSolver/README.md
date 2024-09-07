@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/YeyoM/mazeSolver">
     <img src="public/icon.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -9,18 +8,10 @@
 
   <p align="center">
     Generate and solve a maze with Python.
-    <br />
-    <a href="https://github.com/YeyoM/mazeSolver"><strong>Explore the code »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/YeyoM/mazeSolver/issues">Report Bug</a>
-  </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/YeyoM/mazeSolver)
 
 ### What does this project do?
 
@@ -61,22 +52,7 @@ To get a local copy up and running follow these simple example steps.
 - Install with pip the following: random, numpy and time.
 
 - Clone the repo
-   ```sh
-    git clone https://github.com/YeyoM/mazeSolver.git
-   ```
+   
 - The entry point of the code is main.py
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See LICENSE.txt for more information.
-
-<!-- CONTACT -->
-## Contact
-
-YeyoM - [@YeyoMoreno24](https://twitter.com/YeyoMoreno24) - yeyomoreno2003@hotmail.com
-
-Maze Solver - [https://github.com/YeyoM/mazeSolver](https://github.com/YeyoM/mazeSolver)
-
-<!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: public/screenshot.png
